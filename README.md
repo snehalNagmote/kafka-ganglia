@@ -1,9 +1,14 @@
 Kafka Ganglia Metrics Reporter
 ==============================
 
+Fixed some of the dependencies isue with Kafka 0.8 and Scala 2.8
+
 This is a simple reporter for kafka using the 
 [GangliaReporter](http://metrics.codahale.com/manual/ganglia/). It works with 
 kafka 0.8 beta version.
+
+
+
 
 Install On Broker
 ------------
